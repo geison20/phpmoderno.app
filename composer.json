@@ -1,0 +1,10 @@
+{
+    "name": "root/phpmoderno.app",
+    "authors": [
+        {
+            "name": "Geisson Machado Antunes",
+            "email": "geisonnm@hotmail.com"
+        }
+    ],
+    "require": {}
+}
